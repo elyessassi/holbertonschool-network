@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# this is a command that shows active listening ports and the PID and name 
 netstat -lp
